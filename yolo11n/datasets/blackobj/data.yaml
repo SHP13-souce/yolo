@@ -2,6 +2,7 @@ path: C:/Users/MBCC/Desktop/111/yolo/yolo11n/datasets/blackobj
 
 train: images/train
 val: images/val
+test: images/test
 
 names:
-  0: bullet_vest
+  0: target
