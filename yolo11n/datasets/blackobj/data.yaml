@@ -1,0 +1,6 @@
+names:
+- bullet_vest
+nc: 1
+path: C:\Users\34741\datasets\datasets\blackobj
+train: images/train
+val: images/val
