@@ -1,6 +1,3 @@
-names:
-- bullet_vest
-nc: 1
 path: C:/Users/MBCC/Desktop/111/yolo/yolo11n/datasets/blackobj
 train: images/train
 val: images/val
